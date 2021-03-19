@@ -1,4 +1,4 @@
-pacakge api
+package api
 
 func HelloApi() string {
     return "HelloApi"
